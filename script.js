@@ -1,0 +1,1 @@
+console.log("Dummy WebDashboard with Codecov loaded!");
